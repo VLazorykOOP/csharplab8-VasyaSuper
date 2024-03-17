@@ -1,0 +1,6 @@
+cdef klmnopqrstuvwxyz ghijklmnopqrs vasya asd 
+hijklm hijklmnopqr 
+petro 
+boris 
+v-d
+ 
